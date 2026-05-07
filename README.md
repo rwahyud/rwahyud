@@ -101,7 +101,7 @@
 ## Nilai Yang Saya Bawa
 
 <p align="center">
-  <b>Terstruktur</b> &nbsp;•&nbsp; <b>Teliti</b> &nbsp;•&nbsp; <b>Kolaboratif</b> &nbsp;•&nbsp; <b>Fokus pada user</b>
+  <b>Terstruktur</b> &nbsp;•&nbsp; <b>Teliti</b> &nbsp;•&nbsp; <b>Kolaboratif</b> &nbsp;•&nbsp; <b>Jujur</b>
 </p>
 
 ## Mari Terhubung
