@@ -1,12 +1,9 @@
-# <p align="center">Halo, saya Rizki 👋</p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=293EF7&center=true&vCenter=true&width=520&lines=Halo!+saya+Rizki;Saya+seorang+Project+Manager;Junior+QA+%2C+Junior+Front-End+%2C+UI%2FUX+Design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=293EF7&width=435&lines=Hallo!+saya+Rizki+%F0%9F%91%8B;Saya+seorang++project+manager+;Junior+QA+%2CJunior+Front+End+%2C++UI%2FUX+Design)](https://git.io/typing-svg" />
   </a>
-  <br />
-  <img src="image/WhatsApp%20Image%202026-05-07%20at%2012.53.40.jpeg" alt="Rizki Tri Wahyudi" width="220" />
-</p>
 
 <p align="center">
   Saya suka membangun produk digital yang terarah, rapi, dan nyaman digunakan.
