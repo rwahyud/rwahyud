@@ -104,13 +104,6 @@
   <b>Terstruktur</b> &nbsp;•&nbsp; <b>Teliti</b> &nbsp;•&nbsp; <b>Kolaboratif</b> &nbsp;•&nbsp; <b>Fokus pada user</b>
 </p>
 
-## Statistik GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rwahyud&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwahyud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 ## Mari Terhubung
 
 <p align="center">
