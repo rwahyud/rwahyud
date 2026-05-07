@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=293EF7&width=435&lines=Hallo!+saya+Rizki+%F0%9F%91%8B;Saya+seorang++project+manager+;Junior+QA+%2CJunior+Front+End+%2C++UI%2FUX+Design)](https://git.io/typing-svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=293EF7&width=435&lines=Hallo!+saya+Rizki+%F0%9F%91%8B;Saya+seorang++project+management;Junior+QA+%2CJunior+Front+End+%2C++UI%2FUX+Design)](https://git.io/typing-svg" />
   </a>
 
 <p align="center">
@@ -76,14 +76,28 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project%20Management-293EF7?style=for-the-badge&logo=notion&logoColor=white" alt="Project Management" />
-  <img src="https://img.shields.io/badge/QA%20Testing-111827?style=for-the-badge&logo=checkmarx&logoColor=white" alt="QA Testing" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  
+  <br />
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-</p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 
+  <br />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Pascal-008DFF?style=for-the-badge&logo=delphi&logoColor=white" alt="Pascal" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/QA%20Testing-111827?style=for-the-badge&logo=checkmarx&logoColor=white" alt="QA Testing" />
+</p>
 ## Nilai Yang Saya Bawa
 
 <p align="center">
