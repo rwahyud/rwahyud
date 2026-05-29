@@ -119,9 +119,6 @@
   <a href="https://www.instagram.com/rwahydiii_/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-@rwahydiii__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://wa.me/6288212014963" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-088212014963-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
   <a href="mailto:wahyudirizkytri@gmail.com">
     <img src="https://img.shields.io/badge/Email-wahyudirizkytri%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
