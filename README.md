@@ -122,6 +122,9 @@
   <a href="mailto:wahyudirizkytri@gmail.com">
     <img src="https://img.shields.io/badge/Email-wahyudirizkytri%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://porto-rizki.my.id" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-porto--rizki.my.id-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 <p align="center">
